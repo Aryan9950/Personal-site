@@ -1,0 +1,81 @@
+
+.Home{
+    background-image: url(./IMAGES/dpp.png.png);
+    font-style: italic;
+    background-size: cover;
+    
+}
+.Home i u{
+    color: aliceblue;
+}
+p i{
+    color: aliceblue;
+}
+
+
+
+.tab{
+    background-image: url(./IMAGES/Screenshot\ 2024-08-10\ 173921.png) ;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+
+    
+}
+
+.skills{
+    background-image: url(./IMAGES/Screenshot\ 2024-08-10\ 180309.png);
+    background-size: cover;
+    opacity: calc();
+}
+.skills h2 i b{
+    color: aliceblue;
+}
+
+h2 i{
+    color: aliceblue;
+}
+
+ul li{
+    color: aliceblue;
+}
+
+h4 i b{
+    color: aliceblue;
+}
+
+.Services{
+  background-size: cover;
+    background-image: url(./IMAGES/Screenshot\ 2024-08-10\ 181148.png);
+}
+h2 i b{
+    color:azure;
+}
+
+.Services h3 i b ul li {
+    color:floralwhite;
+}
+
+.contact{
+    text-align: center;
+    position: relative;
+    background-image: url(./IMAGES/Screenshot\ 2024-08-10\ 190342.png);
+    background-size: cover;
+    
+}
+.contact p i{
+    color: black;
+}
+.contact h2 i b{
+    color: aliceblue;
+}
+.contact p i{
+    color: aliceblue;
+}
+.contact fieldset legend i b{
+    color:aquamarine;
+
+}
+p label i b{
+    color:chartreuse;
+}
